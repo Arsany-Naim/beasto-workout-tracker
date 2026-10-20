@@ -1,4 +1,4 @@
-# Beasto -- Workout Tracker
+# Beasto - Workout Tracker
 
 Workout Tracker is a Spring Boot application that allows users to manage their workouts, exercises, and track their fitness progress.
 
